@@ -1,0 +1,5 @@
+flask
+cloudscraper
+selenium
+beautifulsoup4
+gunicorn
